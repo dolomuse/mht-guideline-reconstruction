@@ -48,68 +48,6 @@ This analysis applies the **Evidence-Selective Medicine (ESM) framework** to doc
 
 ---
 
-## 🎯 Navigate by Audience
-
-### 👩‍⚕️ For Patients
-
-**Start here**: [Patient Resources](patient-resources/)
-
-- Questions to ask your clinician
-- Understanding formulation differences
-- Finding evidence-based providers
-- Your rights under informed consent law
-
-### 🩺 For Clinicians
-
-**Start here**: [Clinician Resources](clinician-resources/)
-
-- Legal defensibility framework for evidence-based practice
-- Informed consent documentation templates
-- Prescribing guide for modern formulations
-- Responding to institutional pressure
-- Why the 2024 Restatement protects evidence-based practice
-
-### ⚖️ For Attorneys
-
-**Start here**: [Legal Analysis](legal-analysis/)
-
-- 2024 Restatement (Third) of Torts implications
-- Custom-based vs. evidence-based standards
-- Failure-to-treat negligence framework
-- Organizational liability exposure
-- Expert witness guidance
-
-### 📊 For Researchers
-
-**Start here**: [Full Article](full-article/) | [Evidence Synthesis](evidence-synthesis/)
-
-- Complete 9,000+ word analysis
-- Comprehensive evidence tables
-- International guideline comparison
-- Future research directions
-- Equipoise dissolution analysis
-
-### 🏛️ For Policy Makers
-
-**Start here**: [Policy Analysis](policy-analysis/)
-
-- ICD-11 reclassification opportunity
-- Insurance coverage implications
-- Regulatory reform pathway
-- State-by-state implementation strategies
-
-### 📰 For Journalists
-
-**Start here**: [Media Resources](media/)
-
-- Press release
-- Key talking points
-- Interview availability
-- Data visualizations
-- Timeline of events
-
----
-
 ## 📚 Repository Contents
 
 ### Core Analysis
@@ -119,31 +57,6 @@ This analysis applies the **Evidence-Selective Medicine (ESM) framework** to doc
   - Supplementary materials
   - References and citations
 
-- **[Evidence Synthesis](evidence-synthesis/)**: Comprehensive data tables
-  - Clinical trials comparison
-  - Formulation pharmacology
-  - International guideline divergence
-  - Registry data summary
-
-- **[ESM Application](esm-application/)**: How institutional mechanisms explain MHT guideline persistence
-  - Six-level framework applied to MHT
-  - Geographic divergence analysis
-  - Institutional response documentation
-
-### Practical Resources
-
-- **[Patient Resources](patient-resources/)**: Actionable guidance for women seeking evidence-based care
-- **[Clinician Resources](clinician-resources/)**: Implementation guides and legal protection frameworks
-- **[Legal Analysis](legal-analysis/)**: Malpractice law implications and litigation guidance
-- **[Policy Analysis](policy-analysis/)**: Regulatory and classification reform strategies
-
-### Tracking & Updates
-
-- **[Reform Tracking](reform-tracking/)**: Real-time documentation of guideline reform progress
-  - Timeline of events
-  - Organizational responses
-  - Court cases and legal developments
-  - Media coverage
 
 ---
 
@@ -277,25 +190,6 @@ This analysis applies the **Evidence-Selective Medicine (ESM)** framework to und
 ✅ **Future research directions** moving beyond obsolete equipoise
 ✅ **International comparison** revealing U.S. exceptionalism
 
----
-
-## 📖 How to Use This Repository
-
-### Option 1: Quick Overview
-1. Read this README
-2. Review [Evidence Summary Tables](evidence-synthesis/)
-3. Check [Reform Timeline](reform-tracking/timeline.md)
-
-### Option 2: Deep Dive
-1. Read [Full Article](full-article/main-document.md)
-2. Explore [ESM Framework Application](esm-application/)
-3. Review [Comprehensive Evidence Tables](evidence-synthesis/)
-
-### Option 3: Practical Implementation
-1. **Clinicians**: Start with [Clinician Resources](clinician-resources/)
-2. **Patients**: Start with [Patient Resources](patient-resources/)
-3. **Attorneys**: Start with [Legal Analysis](legal-analysis/)
-4. **Policy makers**: Start with [Policy Analysis](policy-analysis/)
 
 ---
 
