@@ -250,7 +250,7 @@ This analysis applies the **Evidence-Selective Medicine (ESM)** framework to und
 
 **Level 6 - Ethical Compartmentalization**: Informed consent principles applied selectively, categorical restrictions preventing patient autonomy
 
-[**Full ESM framework documentation →**](https://github.com/YOUR-USERNAME/evidence-selective-medicine)
+[**Full ESM framework documentation →**](https://github.com/dolomuse/evidence-selective-medicine)
 
 ---
 
@@ -361,10 +361,10 @@ DOI: [Your Zenodo DOI]
 ```
 
 **Related work**:
-- Evidence-Selective Medicine Framework: https://github.com/YOUR-USERNAME/evidence-selective-medicine
-- Zenodo archive: [Your Zenodo link]
-- Figshare archive: [Your Figshare link]
-- ORCID profile: [Your ORCID link]
+- Evidence-Selective Medicine Framework: https://github.com/dolomuse/evidence-selective-medicine
+- Zenodo archive: [(https://zenodo.org/records/17775748)]
+- Figshare archive: [(https://figshare.com/articles/dataset/Reconstructing_Menopausal_Hormone_Therapy_Guidelines_From_Palliative_Symptom_Management_to_Age-Related_Endocrine_Insu_ciency_Disease_Prevention/30753338?file=60009308)]
+- ORCID profile: [(https://orcid.org/0009-0000-6980-3512)]
 
 ---
 
