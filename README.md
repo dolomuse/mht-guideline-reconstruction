@@ -1,8 +1,8 @@
 # Reconstructing Menopausal Hormone Therapy Guidelines
 ## From Palliative Symptom Management to Age-Related Endocrine Insufficiency Disease Prevention
 
-[![DOI](https://zenodo.org/badge/DOI/YOUR-ZENODO-DOI.svg)](https://doi.org/YOUR-ZENODO-DOI)
-*Replace with your actual Zenodo DOI badge*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17775748.svg)](https://doi.org/10.5281/zenodo.17775748)
+
 
 ---
 
