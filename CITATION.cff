@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Catherino"
+    given-names: "Dolores"
+    orcid: "0009-0000-6980-3512"
+title: "Reconstructing Menopausal Hormone Therapy Guidelines: From Palliative Symptom Management to Age-Related Endocrine Insufficiency Disease Prevention"
+version: 1.0.0
+date-released: 2025-12-02
+url: "https://github.com/dolomuse/mht-guideline-reconstruction"
+doi: "https://doi.org/10.5281/zenodo.17775748"
+license: CC-BY-4.0
+keywords:
+  - menopausal hormone therapy
+  - MHT
+  - evidence-based medicine
+  - clinical guidelines
+  - women's health
+  - endocrine insufficiency
+  - institutional analysis
+```
+
+4. **Commit:** `Add citation file`
+
+---
+
+## Step 7: Configure Repository Settings
+
+### Add Topics (Tags):
+
+1. **Click the gear icon** next to "About" (right sidebar of main page)
+2. **In "Topics" field**, add these one at a time (press Enter after each):
+   - `womens-health`
+   - `menopause`
+   - `hormone-therapy`
+   - `evidence-based-medicine`
+   - `clinical-guidelines`
+   - `medical-ethics`
+   - `paradigm-shift`
+   - `institutional-analysis`
+   - `bioidentical-hormones`
+   - `fda`
+3. **Description field**: 
+```
+   Comprehensive analysis of menopausal hormone therapy guideline failures and evidence-based reconstruction framework following FDA's November 2025 reversal
